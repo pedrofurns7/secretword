@@ -16,8 +16,6 @@ const Game = ({verifyLetter, pickedWord, pickedCategory, letters, guessedLetters
         letterInputRef.current.focus();
     }
 
-
-
   return (
     <div>
         <div className="game">
